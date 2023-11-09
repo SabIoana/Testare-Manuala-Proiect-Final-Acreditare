@@ -62,7 +62,45 @@
 - Verificarea funcționalității de drag and drop, a butoanelor si icon-uri
 
 ### 1.4 *Design Testare*
-#### Story-urile legate de doua epice care pot fi vizulaizate aici: 
+#### Story-urile legate de doua epice care pot fi vizulaizate aici: [Epic](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Epic.pdf)
+#### Bazat pe analiza specificațiilor, Story-urile au fost create în Jira și pot fi vizualizate aici: [Story](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Story.pdf)
+#### Test Cases
+
+![Test Cases](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/d4492d97-a82f-4cb5-97a9-2666642e445d)
+
+#### Test case-urile pot fi vilzualizate aici: [Test Cases](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
+
+
+### 1.5 *Implementare*
+#### Următoarele elemente sunt pregatite pentru etapa de execuție a testelor:
+- Mediul de testare este funcțional: [Aeries](https://demo.aeries.net/aeries/Login.aspx?demo=True&user=teacher990&pwd=teacher990)
+- Accesul la mediul de testare este disponibil: Username: teacher990, Password: teacher990
+- Cycle summary a fost creat
+- Test case-urile au fost adăugate în Cycle summary
+
+
+### 1.6 *Execuția Testelor*
+- Cazurile de testare sunt create pe sumarul ciclului creat:
+
+  ![Test execution](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/96af42e3-a5f0-42be-95b1-e8c36fc1990e)
+
+- Bug-urile au fost create pe baza testelor eșuate. Rapoartele complete de bug-uri pot fi găsite aici: [Bugs]([https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.Pdf.pdf)(https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.pdf)
+    - Error message does not indicate that both fields are required
+    - ‘Forgot Password’ button not available to recover password
+    - Icons for either the username or password field are missing or not displayed consistently.
+    - Absence of "All Remaining Students are Present" Button
+    - Slow page loading and delayed filter option application
+    - Missing pop-up on mouse hover
+
+
+### 1.5 *Inchidere*
+- Decizia cu privire la planurile de lansare va fi luată de PM în strânsă colaborare cu clientul și echipa de proiect
+- Matricea de trasabilitate a fost generată și poate fi găsită aici: [Traceability Matrix](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Traceability%20Matrix.xlsx)
+- A fost generat un grafic de execuție a testelor, iar raportul final arată că 6 teste au eșuat dintr-un total de 40.
+- Au fost planificate 40 de cazuri de testare pentru execuție și toate au fost efectuate.
+- Au fost găsite în total 6 bug-uri, dintre care prioritatea este: 1 - Critical, 1 - High, 3 -Medium, 1 - Low
+
+![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/c68876ed-0290-4c2f-b8cb-10597e62b070)
 
 
 
