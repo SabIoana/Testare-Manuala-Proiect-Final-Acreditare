@@ -53,7 +53,7 @@
 ![Test Execution By Test Cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/0a16f5fe-8920-464b-bdac-8934f44a15b6)
 
 ### 1.3 *Analiza Testelor*
-#### Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulele Attendance și Gradebook Dashboard . Următoarele condiții de test au fost identificate:
+#### Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulele Attendance și Gradebook Dashboard . Următoarele condiții de testare au fost identificate:
 - Verificarea funcționalității funcțiilor de ștergere, editare, căutare și resetare în sistem.
 - Validarea utilizabilității și feedback-ului vizual al butoanelor.
 - Confirmarea manipulării corecte a scenariilor de creare și ștergere.
