@@ -100,7 +100,7 @@
 - Au fost planificate 40 de cazuri de testare pentru execuție și toate au fost efectuate.
 - Au fost găsite în total 6 bug-uri, dintre care prioritatea este: 1 - Critical, 1 - High, 3 -Medium, 1 - Low
 
-![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/c68876ed-0290-4c2f-b8cb-10597e62b070)
+![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/5acfffda-0b4b-455c-8015-1db8c99ae66c)
 
 
 
