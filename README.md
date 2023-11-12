@@ -36,8 +36,8 @@
 - Riscuri de proiect:
     - Lipsa experienței în echipa de QA
     - Întârzieri în dezvoltare (resurse limitate, schimbări în cerințe, management de proiect necorespunzător),
-    - 	Mediu competitive
-    - 	Resurse insuficiente(Limitări bugetare sau de personal pot afecta progresul proiectului)
+    - Mediu competitiv
+    - Resurse insuficiente(Limitări bugetare sau de personal pot afecta progresul proiectului)
 - Riscuri de produs:
     - Documentație insuficientă sau neclară
     - Experiența utilizatorului (o experiență de utilizare sub așteptări, navigație complexă)
