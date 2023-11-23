@@ -80,9 +80,7 @@
 
 
 ### 1.6 *Execuția Testelor*
-- Cazurile de testare sunt create pe sumarul ciclului creat:
-
-  ![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/8f4a3ab9-4bdd-4d60-a11c-7f55ad22566c)
+- Cazurile de testare sunt create pe sumarul ciclului creat: [Cycle_summary](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)  
 
 - Bug-urile au fost create pe baza testelor eșuate. Rapoartele complete de bug-uri pot fi găsite aici: [Bugs]([https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.Pdf.pdf)(https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.pdf)
     - Error message does not indicate that both fields are required
@@ -100,7 +98,7 @@
 - Au fost planificate 40 de cazuri de testare pentru execuție și toate au fost efectuate.
 - Au fost găsite în total 6 bug-uri, dintre care prioritatea este: 1 - Critical, 1 - High, 3 -Medium, 1 - Low
 
-![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/5acfffda-0b4b-455c-8015-1db8c99ae66c)
+![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/8f4a3ab9-4bdd-4d60-a11c-7f55ad22566c)
 
 
 
