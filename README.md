@@ -50,7 +50,7 @@
 ### 1.2 *Monitorizare și Control Testare*
 #### Diverse rapoarte periodice au fost generate pentru a reflecta starea curentă a procesului de testare; în cazul problemelor majore, au putut fi luate măsuri de control.
 
-![Test Execution By Test Cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/0a16f5fe-8920-464b-bdac-8934f44a15b6)
+![Test Execution By Test Cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/TestExecutions.png)
 
 ### 1.3 *Analiza Testelor*
 #### Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulele Attendance și Gradebook Dashboard . Următoarele condiții de testare au fost identificate:
