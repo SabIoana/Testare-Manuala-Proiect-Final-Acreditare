@@ -66,7 +66,7 @@
 #### Bazat pe analiza specificațiilor, Story-urile au fost create în Jira și pot fi vizualizate aici: [Story](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Story.pdf)
 #### Test Cases
 
-![Test Cases](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/6a851170-4407-4ed3-80db-3b2280525ace)
+![Test Cases](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/02f4a42a-ccd0-490d-913d-0e4a9d88397f)
 
 #### Test case-urile pot fi vilzualizate aici: [Test Cases](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 
