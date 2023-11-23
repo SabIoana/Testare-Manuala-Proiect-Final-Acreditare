@@ -8,7 +8,7 @@
 ## Specificaṭiile funcṭionale
 #### Story-urile au fost create în JIRA și descriu specificațiile funcționale ale modulului Login, Daily Attendance Submission , Attendance By Photo si Scores By Class, pentru care se efectuează proiectul final.
 
-![Gradebooks](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Gradebooks.png)
+![Gradebooks](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/35dcbe29-d5a2-4396-8960-f80c400aa651)
 
 ## 1. Secțiune de Testare
 ### 1.1 **Planificarea Testelor**
@@ -50,7 +50,7 @@
 ### 1.2 *Monitorizare și Control Testare*
 #### Diverse rapoarte periodice au fost generate pentru a reflecta starea curentă a procesului de testare; în cazul problemelor majore, au putut fi luate măsuri de control.
 
-![Test Execution By Test Cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/TestExecutions.png)
+![TestExecutions](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/1a86882c-0e77-40f9-a834-059cd7e6cc58)
 
 ### 1.3 *Analiza Testelor*
 #### Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulele Attendance și Gradebook Dashboard . Următoarele condiții de testare au fost identificate:
