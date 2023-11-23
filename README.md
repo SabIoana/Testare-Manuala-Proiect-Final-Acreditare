@@ -8,7 +8,7 @@
 ## Specificaṭiile funcṭionale
 #### Story-urile au fost create în JIRA și descriu specificațiile funcționale ale modulului Login, Daily Attendance Submission , Attendance By Photo si Scores By Class, pentru care se efectuează proiectul final.
 
-![Gradebooks](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/55204aed-c3d8-43fe-85bb-05a793c9f482)
+![Gradebooks](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Gradebooks.png)
 
 ## 1. Secțiune de Testare
 ### 1.1 **Planificarea Testelor**
