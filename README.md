@@ -82,7 +82,7 @@
 ### 1.6 *Execuția Testelor*
 - Cazurile de testare sunt create pe sumarul ciclului creat: [Cycle_summary](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)  
 
-- Bug-urile au fost create pe baza testelor eșuate. Rapoartele complete de bug-uri pot fi găsite aici: [Bugs]([https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.Pdf.pdf)(https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.pdf)
+- Bug-urile au fost create pe baza testelor eșuate. Rapoartele complete de bug-uri pot fi găsite aici: [Bugs](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Bugs.pdf)
     - Error message does not indicate that both fields are required
     - ‘Forgot Password’ button not available to recover password
     - Icons for either the username or password field are missing or not displayed consistently.
