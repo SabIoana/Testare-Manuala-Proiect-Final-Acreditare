@@ -18,7 +18,10 @@
 
 1.1.1 *Criterii de intrare*:
   - Specificațiile funcționale sunt definite
+  - Specifictiile non-functionale sunt definite
   - Rolurile necesare pentru proiect sunt alocate
+  - definirea tool-urilor necesare
+  - Alinierea echipelor de frontend si backend
   - Mediu de testare trebuie să fie în loc și pregătit pentru utilizare
   - Accesul la mediul de testare a fost furnizat echipei de testare
     
