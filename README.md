@@ -1,8 +1,8 @@
 ## Testare-Manuala-Proiect-Final-Acreditare
 
-### Acest repository contine conṭine proiectul meu final de testare manualặ pentru acreditare.
-#### Proiectul evidenṭiazӑ compeṭelntele în tehnicile de testare manualӑ. Prin utilizarea conceptelor și metodologiilor învățate, proiectul oferă oportunitatea de a demonstra abilitățile într-un context practic și de a obține experiență valoroasă în testarea unei aplicații software în funcțiune.
-#### Aplicatia testata: [Aeris](https://demo.aeries.net/aeries/Login.aspx?demo=True&user=admin&pwd=admin)
+#### Acest repository conține proiectul meu final de testare manuală pentru acreditare.
+#### Proiectul evidențiază competențele în tehnicile de testare manuală. Prin utilizarea conceptelor și metodologiilor învățate, proiectul oferă oportunitatea de a demonstra abilitățile într-un context practic și de a obține experiență în testarea unei aplicații software în funcțiune.
+#### Aplicația testată: [Aeris](https://demo.aeries.net/aeries/Login.aspx?demo=True&user=admin&pwd=admin)
 #### Tool-uri utilizate: Jira, Zephyr Squad
 
 ## Specificaṭiile funcṭionale
