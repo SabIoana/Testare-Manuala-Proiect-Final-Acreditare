@@ -18,18 +18,16 @@
 
 1.1.1 *Criterii de intrare*:
   - Specificațiile funcționale sunt definite
-  - Specifictiile non-functionale sunt definite
+  - Specificțiile non-funcționale sunt definite
   - Rolurile necesare pentru proiect sunt alocate
-  - definirea tool-urilor necesare
+  - Definirea tool-urilor necesare
   - Alinierea echipelor de frontend si backend
-  - Mediu de testare trebuie să fie în loc și pregătit pentru utilizare
-  - Accesul la mediul de testare a fost furnizat echipei de testare
-    
+   
 1.1.2 *Criterii de iesire*:
   - Scripturile de test au fost executate
   - Defectele de prioritate majoră au fost închise
   - Toate rezultatele așteptate și reale sunt capturate și documentate cu scripturile de test
-  - Toate defectele au fost înregistrate
+  - Toate defectele identificate au fost fixate fixate
 
 1.1.3 *Scopul Testului*:
   - Tests in scope: toate funcționalitățile modulului Attendance, Attendance By Photo, Gradebook, definite în specificațiile cerințelor software trebuie testate: teste funcționale, teste GUI
@@ -39,13 +37,13 @@
 - Riscuri de proiect:
     - Lipsa experienței în echipa de QA
     - Întârzieri în dezvoltare (resurse limitate, schimbări în cerințe, management de proiect necorespunzător),
-    - Mediu competitiv
+    - Probleme tehnice (probleme de compatibilitate și performanṭӑ)
     - Resurse insuficiente(Limitări bugetare sau de personal pot afecta progresul proiectului)
 - Riscuri de produs:
-    - Documentație insuficientă sau neclară
+    - Securitatea datelor
     - Experiența utilizatorului (o experiență de utilizare sub așteptări, navigație complexă)
     - Interfețe confuze
-    - Actualizări și întreținere
+    - Actualizări și întreținere (actualizarile pot fi imcompatibile cu versiunile mai vechi ale aplicației, pot introduce vulnerabilități de securitate)
 
 1.1.5 *Evaluarea criteriilor de intrare*
 #### Criteriile de intrare în faza de Planificare a Testului au fost îndeplinite și procesul de testare poate continua.
@@ -53,7 +51,7 @@
 ### 1.2 *Monitorizare și Control Testare*
 #### Diverse rapoarte periodice au fost generate pentru a reflecta starea curentă a procesului de testare; în cazul problemelor majore, au putut fi luate măsuri de control.
 
-![TestExecutions](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/1a86882c-0e77-40f9-a834-059cd7e6cc58)
+![Test metrics](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/b1c8fc85-3683-46de-b10c-243fac749e7c)
 
 ### 1.3 *Analiza Testelor*
 #### Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulele Attendance și Gradebook Dashboard . Următoarele condiții de testare au fost identificate:
@@ -65,7 +63,7 @@
 - Verificarea funcționalității de drag and drop, a butoanelor si icon-uri
 
 ### 1.4 *Design Testare*
-#### Story-urile legate de doua epice care pot fi vizulaizate aici: [Epic](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Epic.pdf)
+#### Pentru dezvoltarea planului de testare(ce anume trebuie testat și realizarea scenariilor de testare) au fost create si utilizate urmatoarele epicuri: [Epic](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Epic.pdf)
 #### Bazat pe analiza specificațiilor, Story-urile au fost create în Jira și pot fi vizualizate aici: [Story](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Story.pdf)
 #### Test Cases
 
