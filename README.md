@@ -55,13 +55,38 @@
 
 ### 1.3 *Analiza Testelor*
 #### Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulele Attendance și Gradebook Dashboard . Următoarele condiții de testare au fost identificate:
-- Verificarea funcționalității funcțiilor de ștergere, editare, căutare și resetare în sistem.
-- Validarea utilizabilității și feedback-ului vizual al butoanelor.
-- Confirmarea manipulării corecte a scenariilor de creare și ștergere.
-- Introducerea datelor doar pentru câmpurile obligatorii și verificarea că acestea sunt create/actualizate.
-- Confirmarea faptului că userul poate selecta candidați și că starea lor este actualizată în consecință.
-- Verificarea funcționalității de drag and drop, a butoanelor si icon-uri
+#### Condiții de testare pozitive:
+  - Verifică faptul că utilizatorul se poate autentifica cu credențiale valide
+  - Verifica dacă utilizatorul are posibilitatea de a-și recupera parola
+  - Verifica dacă butoanele functionează corect și returnează datele corecte
+  - Verifică dacă utilizatorul poate reseta campurile din formular folosind butonul Reset
+  - Verifică dacă butonul de resetare resetează corect campurile din formular
+  - Verifică dacă butonul de căutare funcționează corect și returnează informațiile corect
+  - Verifică dacă butonul deschide un pop-up window afișand meniul solicitat
+  - Verifică dacă utilizatorul poate utiliza butoanele
+  - Verică dacă utilizatorul poate șterge o înregistrare existentă
+  - Verifică dacă un pop-up window se afișează când utilizatorul apasă butonul de creare a unui tabel
+  - Verifică dacă checkbox-urile sunt cllickable/selectable
+  - Verifică dacă utilizatorul poate selecta mai multe checkbox-uri concomitent
+  - Verifică dacă funcționalitate de drag and drop funcționează corect
+  - Verifică daca arrow-ul este afișat corect
+  - Verifică dacă arrow-ul funcționează corect
+  - Verifică dacă utilizatorul poate crea o nouă înregistrare
+  - Verică dacă utilizatorul poate șterge o înregistrare existentă
+  - Verifică dacă utilizatorul poate crea un table introducand informații doar în campurile obligatorii
+  - Verifică dacă utilizatorul primeste un mesaj de confirmare intr-un pop-up window în momentul când vrea sa șteargă informații
+  - Verifică dacă starea candidaților este actualizată în consecință
+  - Verifică dacă informațiile introduse de utilizator sunt actializate în consecință
+  - Verifică dacă butoanele oferă feedback vizual corect atunci cand sunt apăsate
+  - Verifică dacă utilizatorul identifică butoanele ușor
+  - Verificăa dacă butoanele sunt disponibile pe pagină
+    
+#### Condiții de testare negative:
+  - Verifică dacă utilizatorul se poate autentifica cu un username valid si o parolă incorectă
+  - Verifică dacă utilizatorul se poate autentifica cu un username invalid si o parola corectă
+  - Verifică dacă utilizatorul se poate autentifica lăsând whitespace characters
 
+    
 ### 1.4 *Design Testare*
 #### Pentru dezvoltarea planului de testare(ce anume trebuie testat și realizarea scenariilor de testare) au fost create si utilizate urmatoarele epicuri: [Epic](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Epic.pdf)
 #### Bazat pe analiza specificațiilor, Story-urile au fost create în Jira și pot fi vizualizate aici: [Story](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/blob/main/Story.pdf)
