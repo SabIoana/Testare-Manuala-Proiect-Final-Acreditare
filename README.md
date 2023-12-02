@@ -59,8 +59,8 @@
   - Verifică faptul că utilizatorul se poate autentifica cu credențiale valide
   - Verifica dacă utilizatorul are posibilitatea de a-și recupera parola
   - Verifica dacă butoanele functionează corect și returnează datele corecte
-  - Verifică dacă utilizatorul poate reseta campurile din formular folosind butonul Reset
-  - Verifică dacă butonul de resetare resetează corect campurile din formular
+  - Verifică dacă utilizatorul poate reseta câmpurile din formular folosind butonul Reset
+  - Verifică dacă butonul de resetare resetează corect câmpurile din formular
   - Verifică dacă butonul de căutare funcționează corect și returnează informațiile corect
   - Verifică dacă butonul deschide un pop-up window afișand meniul solicitat
   - Verifică dacă utilizatorul poate utiliza butoanele
@@ -125,6 +125,14 @@
 - Au fost găsite în total 6 bug-uri, dintre care prioritatea este: 1 - Critical, 1 - High, 3 -Medium, 1 - Low
 
 ![Test execution report by cycle](https://github.com/SabIoana/Testare-Manuala-Proiect-Final-Acreditare/assets/135150327/8f4a3ab9-4bdd-4d60-a11c-7f55ad22566c)
+
+### Concluzii
+#### Pe baza raportului final, putem spune că aplicația este în general funcțională, dar există unele probleme care trebuie remediate. Bug-urile critice și cele mari trebuie remediate cât mai curând posibil, deoarece pot avea un impact semnificativ asupra aplicației. Bug-urile medii și cele mici pot fi remediate într-o etapă ulterioară, dar ar trebui să fie totuși abordate.
+### Recomandări
+#### În urma acestor concluzii, recomandăm următoarele acțiuni
+  - Remedierea imediată a bug-urilor critice și mari
+  - Elaborarea unui plan pemtru remedierea bug-urilor medii și mici
+  - Extinderea testării pentru a acoperi mai multe scenarii de utilizare
 
 
 
