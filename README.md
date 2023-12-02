@@ -27,7 +27,7 @@
   - Scripturile de test au fost executate
   - Defectele de prioritate majoră au fost închise
   - Toate rezultatele așteptate și reale sunt capturate și documentate cu scripturile de test
-  - Toate defectele identificate au fost fixate fixate
+  - Toate defectele identificate au fost fixate 
 
 1.1.3 *Scopul Testului*:
   - Tests in scope: toate funcționalitățile modulului Attendance, Attendance By Photo, Gradebook, definite în specificațiile cerințelor software trebuie testate: teste funcționale, teste GUI
